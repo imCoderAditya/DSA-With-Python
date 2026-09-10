@@ -172,6 +172,14 @@
 
 ---
 
+## 📊 Contribution & Activity Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayur-Pagote&theme=radical" alt="Contribution Graph" />
+</div>
+
+---
+
 ## 🤝 Contributing & Star Support
 
 <p align="center">
