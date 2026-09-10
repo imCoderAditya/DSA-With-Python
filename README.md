@@ -81,6 +81,11 @@
 
 ```tree
 📦 DSA-With-Python
+ ┣ 📂 MY_PRACTICE/          # 💻 Your Personal Practice Code Files (.py for all 20 topics)
+ ┃ ┣ 🐍 01_asymptotic_analysis.py
+ ┃ ┣ 🐍 02_recursion_backtracking.py
+ ┃ ┣ 🐍 ...
+ ┃ ┗ 🐍 20_advanced_data_structures.py
  ┣ 📂 BOOK/                 # 20 Complete Interactive Textbook Chapters
  ┃ ┣ 📜 00_Index_and_Introduction.md
  ┃ ┣ 📜 Chapter_01_Asymptotic_Analysis.md
