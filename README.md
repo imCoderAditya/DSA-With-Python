@@ -1,5 +1,5 @@
 # 📚 Data Structures and Algorithms Made Easy in Python
-### Master Interactive Textbook & Coding Companion
+### Master Interactive Textbook, Practice Problems, Optimal Solutions & Interview Guide
 
 Inspired by **"Data Structures and Algorithms Made Easy"** (Narasimha Karumanchi) and modern top-tier interview standards (FAANG / LeetCode).
 
@@ -9,7 +9,7 @@ Inspired by **"Data Structures and Algorithms Made Easy"** (Narasimha Karumanchi
 
 ---
 
-## 🗂️ Complete 20-Chapter Digital Textbook
+## 🗂️ 1. Complete 20-Chapter Digital Textbook
 
 | # | Part | Chapter Title | Core Topics |
 |---|---|---|---|
@@ -36,10 +36,23 @@ Inspired by **"Data Structures and Algorithms Made Easy"** (Narasimha Karumanchi
 
 ---
 
-## 💻 How to Write Your Code
+## 📝 2. Topic-Wise Practice Problems & Solutions (.md)
 
-For each chapter:
-1. Open the chapter guide in [`BOOK/`](BOOK/).
-2. Read the intuition, ASCII diagrams, and algorithmic blueprints.
-3. Solve the challenge problems in your own `.py` files inside `YOUR_CODE_PRACTICE/`.
-4. Run tests and verify your time and space complexity!
+| Topic | 📝 Practice Problems (.md) | 💡 Optimal Solutions (.md) | 🎯 Interview Q&A (.md) |
+|---|---|---|---|
+| **Arrays & Strings** | [01_Arrays_Strings_Problems.md](PROBLEMS/01_Arrays_Strings_Problems.md) | [01_Arrays_Strings_Solutions.md](SOLUTIONS/01_Arrays_Strings_Solutions.md) | [01_Arrays_Strings_Interview_QA.md](INTERVIEW/01_Arrays_Strings_Interview_QA.md) |
+| **Linked Lists** | [02_Linked_Lists_Problems.md](PROBLEMS/02_Linked_Lists_Problems.md) | [02_Linked_Lists_Solutions.md](SOLUTIONS/02_Linked_Lists_Solutions.md) | [02_Linked_Lists_Interview_QA.md](INTERVIEW/02_Linked_Lists_Interview_QA.md) |
+| **Stacks & Queues** | [03_Stacks_Queues_Problems.md](PROBLEMS/03_Stacks_Queues_Problems.md) | [03_Stacks_Queues_Solutions.md](SOLUTIONS/03_Stacks_Queues_Solutions.md) | [03_Stacks_Queues_Interview_QA.md](INTERVIEW/03_Stacks_Queues_Interview_QA.md) |
+| **Trees & BST** | [04_Trees_BST_Problems.md](PROBLEMS/04_Trees_BST_Problems.md) | [04_Trees_BST_Solutions.md](SOLUTIONS/04_Trees_BST_Solutions.md) | [04_Trees_BST_Interview_QA.md](INTERVIEW/04_Trees_BST_Interview_QA.md) |
+| **Graphs** | [05_Graphs_Problems.md](PROBLEMS/05_Graphs_Problems.md) | [05_Graphs_Solutions.md](SOLUTIONS/05_Graphs_Solutions.md) | [05_Graphs_Interview_QA.md](INTERVIEW/05_Graphs_Interview_QA.md) |
+| **Dynamic Programming** | [06_Dynamic_Programming_Problems.md](PROBLEMS/06_Dynamic_Programming_Problems.md) | [06_Dynamic_Programming_Solutions.md](SOLUTIONS/06_Dynamic_Programming_Solutions.md) | [06_Dynamic_Programming_Interview_QA.md](INTERVIEW/06_Dynamic_Programming_Interview_QA.md) |
+| **Recursion & Backtracking** | [07_Recursion_Backtracking_Problems.md](PROBLEMS/07_Recursion_Backtracking_Problems.md) | [07_Recursion_Backtracking_Solutions.md](SOLUTIONS/07_Recursion_Backtracking_Solutions.md) | — |
+
+---
+
+## 🎯 How to Use This Repository
+
+1. **Read Theory:** Go through the comprehensive chapter in [`BOOK/`](BOOK/).
+2. **Practice Problems:** Try solving the questions in [`PROBLEMS/`](PROBLEMS/).
+3. **Verify Solutions:** Compare your logic and code with [`SOLUTIONS/`](SOLUTIONS/).
+4. **Prepare for Interviews:** Review FAANG-level conceptual questions in [`INTERVIEW/`](INTERVIEW/).
