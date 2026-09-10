@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=header&text=DSA%20With%20Python&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=The%20Ultimate%20Interactive%20Textbook%20%26%20Interview%20Mastery%20Guide&descFontSize=20&descAlignY=62&descAlign=50" width="100%"/>
+<!-- Project Hero Banner -->
+<a href="https://github.com/imCoderAditya/DSA-With-Python">
+  <img src="assets/dsa_python_banner.jpg" alt="DSA With Python Banner" width="100%" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);"/>
+</a>
+
+<br/><br/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/imCoderAditya/DSA-With-Python">
